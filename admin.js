@@ -1,6 +1,6 @@
 document.addEventListener('DOMContentLoaded', () => {
     // Hardcoded production URL for the standalone Admin Panel linking directly to Live Node Backend
-    const API_BASE = 'https://parking-system-11se.onrender.com/api';
+    const API_BASE = 'https://parking-system-1-w3d5.onrender.com/api';
     
     const loginContainer = document.getElementById('login-container');
     const dashboardContainer = document.getElementById('dashboard-container');
